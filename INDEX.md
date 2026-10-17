@@ -1,6 +1,6 @@
 ---
 title: Kanji Tratti - 漢字の書き順 サポート
-description: 小学校で習う漢字の書き順を、なぞって覚える iOS・Android アプリ「Kanji Tratti」のサポートページです。
+description: 漢字の書き順を、なぞって覚える iOS・Android アプリ「Kanji Tratti」のサポートページです。
 appName: Kanji Tratti
 lang: ja
 pageType: promo
@@ -9,9 +9,9 @@ assetDepth: 0
 
 # Kanji Tratti
 
-**なぞって覚える小学校の漢字**
+**なぞって覚える漢字の書き順**
 
-小学 1〜6 年生で習う 1,026 字の書き順を、1 画ずつ練習できるアプリです。  
+日本語の漢字の書き順を、1 画ずつ練習できるアプリです。まずは小学校で習う 1,026 字を収録しています。  
 アカウント登録はいりません。広告もありません。
 
 ---
