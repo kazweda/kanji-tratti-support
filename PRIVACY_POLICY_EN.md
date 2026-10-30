@@ -19,8 +19,6 @@ Last updated: October 30, 2026
 
 **The App does not collect personal data from users.** There is no account registration, and the App contains no advertising or usage analytics.
 
-This is a translation of the Japanese privacy policy. If the two differ, the [Japanese version](../) prevails.
-
 ---
 
 ## 1. Information We Do Not Collect
