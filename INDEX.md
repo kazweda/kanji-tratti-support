@@ -92,10 +92,11 @@ support (at) netplan.co.jp
 ## クレジット
 
 - 書き順データは [KanjiVG](https://kanjivg.tagaini.net) を、加工せずに使用しています。KanjiVG © Ulrich Apel、ライセンス: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+- 字の意味（英語の画面で表示）は [KANJIDIC2](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project)（EDRDG）を加工して使用しています。ライセンス: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 - 学年別の漢字は学年別漢字配当表、読みは常用漢字表（文化庁）によります
 
 ---
 
-[プライバシーポリシー](privacy-policy/)
+[プライバシーポリシー](privacy-policy/) | [English](en/)
 
 © 2026 Netplan Matsuyama Ltd.
