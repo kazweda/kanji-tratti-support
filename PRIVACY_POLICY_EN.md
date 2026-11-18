@@ -2,8 +2,8 @@
 title: Privacy Policy - Kanji Tratti
 description: Privacy Policy for the Kanji Tratti app. This document describes what the app collects and what it stores on your device.
 appName: Kanji Tratti
-version: 1.3
-lastUpdated: 2026-10-30
+version: 1.4
+lastUpdated: 2026-11-18
 lang: en
 updatedLabel: Last updated
 assetDepth: 2
@@ -11,7 +11,7 @@ assetDepth: 2
 
 # Privacy Policy
 
-Last updated: October 30, 2026
+Last updated: November 18, 2026
 
 ## Overview
 
@@ -44,9 +44,10 @@ The App stores only the following information on your device.
 |---|---|---|
 | IDs of purchased items (for example, that the "Elementary Set" has been purchased) | To let you use what you bought even when the store cannot be reached | On your device (the App's private storage) |
 | Practice progress (for each grade and practice mode, the order of the kanji that have not appeared yet) | To avoid repeating a kanji until every kanji in the set has appeared | On your device (the App's private storage) |
+| Practice records (for each kanji, how many times it was practiced in "Watch" and "Trace", how many times it was written without mistakes, and which strokes were missed and how: stroke order, start point, direction, or shape) | To show which kanji you have practiced and which need more practice, on the App's "Practice record" screen | On your device (the App's private storage) |
 
 - The App does not send this information to the Developer's servers or to any third party. The Developer cannot see it
-- The practice progress contains no information that identifies a child, such as a name
+- The practice progress and practice records contain no information that identifies the user, such as a name. The App does not record when you practiced
 - Deleting the App deletes this information from your device. Your purchase stays in your store account, so you can restore it after reinstalling the App
 
 ### 2.2 Device Backups
@@ -55,12 +56,9 @@ If you use your device's backup feature, such as iCloud Backup (iOS) or Android 
 
 ### 2.3 Planned Features
 
-We plan to add the following features in future versions.
+In a future version, we plan to keep the practice records (2.1) after the App is deleted and reinstalled.
 
-- Practice records: for each kanji, how many times it was practiced, how many mistakes were made, and whether it was written without mistakes
-- Keeping practice records after the App is deleted and reinstalled
-
-These records will also be stored only on your device and in your own iCloud (iOS) or Google Account (Android) storage. They will not be sent to the Developer's servers, and the Developer will not be able to see them. When we add these features, we will update this policy to describe what is stored and where.
+The records will then be stored only on your device and in your own iCloud (iOS) or Google Account (Android) storage. They will not be sent to the Developer's servers, and the Developer will not be able to see them. When we add this feature, we will update this policy to describe what is stored and where.
 
 ---
 
@@ -127,6 +125,7 @@ Replace (at) with @.
 
 | Version | Date | Changes |
 |---------|------|---------|
+| 1.4 | 2026-11-18 | Section 2: Added that practice records are stored on the device, and removed them from Planned Features (2.3). Stated that practice progress and practice records contain no information that identifies the user |
 | 1.3 | 2026-10-30 | Section 6: Added that the URL of the source of the kanji meanings (KANJIDIC2) is also shown. Published the English version |
 | 1.2 | 2026-10-17 | Overview: Described the App as an app for practicing the stroke order of Japanese kanji. Section 6: Stated that the App is used by both adults and children |
 | 1.1 | 2026-10-17 | Section 2: Added that practice progress (the order of kanji that have not appeared yet) is stored on the device. Added device backups (2.2) and where planned practice records will be stored (2.3). Section 1: Moved practice records from "Information We Do Not Collect" to Section 2. Section 3: Added that backups are made by the operating system |
