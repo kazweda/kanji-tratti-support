@@ -69,7 +69,7 @@ Purchases cannot be transferred between iPhone/iPad and Android, because the App
 A. Yes. The stroke order data is built into the app. You only need an internet connection to buy or restore the purchase.
 
 **Q. Does the app save my personal data or the lines I draw?**  
-A. No. The app does not save your name or any other personal data, or the lines you draw. It only saves your purchase and your practice progress (which kanji have already appeared) on your device, and never sends them to the developer. See the [Privacy Policy](../privacy-policy/en/) for details.
+A. No. The app does not save your name or any other personal data, or the lines you draw. It only saves your purchase, your practice progress (which kanji have already appeared), and your practice record (for each kanji, how many times you practiced it and which strokes you got wrong) on your device, and never sends them to the developer. See the [Privacy Policy](../privacy-policy/en/) for details.
 
 **Q. I bought the Elementary Set, but grades 2 to 6 are still locked.**  
 A. Check that you are signed in to the store with the account you used to buy it, then tap "Restore purchases". If the sets still do not unlock, please contact us at the address below.
