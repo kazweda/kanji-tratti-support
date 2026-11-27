@@ -3,7 +3,7 @@ title: Privacy Policy - Kanji Tratti
 description: Privacy Policy for the Kanji Tratti app. This document describes what the app collects and what it stores on your device.
 appName: Kanji Tratti
 version: 1.5
-lastUpdated: 2026-11-26
+lastUpdated: 2026-11-27
 lang: en
 updatedLabel: Last updated
 assetDepth: 2
@@ -11,7 +11,7 @@ assetDepth: 2
 
 # Privacy Policy
 
-Last updated: November 26, 2026
+Last updated: November 27, 2026
 
 ## Overview
 
@@ -125,7 +125,7 @@ Replace (at) with @.
 
 | Version | Date | Changes |
 |---------|------|---------|
-| 1.5 | 2026-11-26 | Section 2: Changed practice progress from "for each grade" to "for each set" (sets for the secondary school Jōyō kanji were added). Section 4: Included the "Jōyō Kanji Set" among the in-app purchases |
+| 1.5 | 2026-11-27 | Section 2: Changed practice progress from "for each grade" to "for each set" (sets for the secondary school Jōyō kanji were added). Section 4: Included the "Jōyō Kanji Set" among the in-app purchases |
 | 1.4 | 2026-11-18 | Section 2: Added that practice records are stored on the device, and removed them from Planned Features (2.3). Stated that practice progress and practice records contain no information that identifies the user |
 | 1.3 | 2026-10-30 | Section 6: Added that the URL of the source of the kanji meanings (KANJIDIC2) is also shown. Published the English version |
 | 1.2 | 2026-10-17 | Overview: Described the App as an app for practicing the stroke order of Japanese kanji. Section 6: Stated that the App is used by both adults and children |
