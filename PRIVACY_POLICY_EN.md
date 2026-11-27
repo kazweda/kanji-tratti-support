@@ -2,8 +2,8 @@
 title: Privacy Policy - Kanji Tratti
 description: Privacy Policy for the Kanji Tratti app. This document describes what the app collects and what it stores on your device.
 appName: Kanji Tratti
-version: 1.4
-lastUpdated: 2026-11-18
+version: 1.5
+lastUpdated: 2026-11-27
 lang: en
 updatedLabel: Last updated
 assetDepth: 2
@@ -11,7 +11,7 @@ assetDepth: 2
 
 # Privacy Policy
 
-Last updated: November 18, 2026
+Last updated: November 27, 2026
 
 ## Overview
 
@@ -43,7 +43,7 @@ The App stores only the following information on your device.
 | Information | Purpose | Where |
 |---|---|---|
 | IDs of purchased items (for example, that the "Elementary Set" has been purchased) | To let you use what you bought even when the store cannot be reached | On your device (the App's private storage) |
-| Practice progress (for each grade and practice mode, the order of the kanji that have not appeared yet) | To avoid repeating a kanji until every kanji in the set has appeared | On your device (the App's private storage) |
+| Practice progress (for each set and practice mode, the order of the kanji that have not appeared yet) | To avoid repeating a kanji until every kanji in the set has appeared | On your device (the App's private storage) |
 | Practice records (for each kanji, how many times it was practiced in "Watch" and "Trace", how many times it was written without mistakes, and which strokes were missed and how: stroke order, start point, direction, or shape) | To show which kanji you have practiced and which need more practice, on the App's "Practice record" screen | On your device (the App's private storage) |
 
 - The App does not send this information to the Developer's servers or to any third party. The Developer cannot see it
@@ -74,7 +74,7 @@ Device backups (2.2) are made by the operating system, not by the App.
 
 ## 4. In-App Purchases
 
-Purchases of the "Elementary Set" (an in-app purchase) are made through the App Store or Google Play. Payment information, such as credit card numbers, is handled by Apple or Google, and the App does not receive it.
+In-app purchases, such as the "Elementary Set" and the "Jōyō Kanji Set", are made through the App Store or Google Play. Payment information, such as credit card numbers, is handled by Apple or Google, and the App does not receive it.
 
 - **iOS**: In App Store Connect, the Developer can see only aggregated sales information. It cannot see information that identifies buyers
 - **Android**: Because of how Google Play works, the Developer may be able to see buyers' email addresses and similar information in Google Play Console to handle refunds and orders. The Developer uses this information only to respond to orders
@@ -125,6 +125,7 @@ Replace (at) with @.
 
 | Version | Date | Changes |
 |---------|------|---------|
+| 1.5 | 2026-11-27 | Section 2: Changed practice progress from "for each grade" to "for each set" (sets for the secondary school Jōyō kanji were added). Section 4: Included the "Jōyō Kanji Set" among the in-app purchases |
 | 1.4 | 2026-11-18 | Section 2: Added that practice records are stored on the device, and removed them from Planned Features (2.3). Stated that practice progress and practice records contain no information that identifies the user |
 | 1.3 | 2026-10-30 | Section 6: Added that the URL of the source of the kanji meanings (KANJIDIC2) is also shown. Published the English version |
 | 1.2 | 2026-10-17 | Overview: Described the App as an app for practicing the stroke order of Japanese kanji. Section 6: Stated that the App is used by both adults and children |
